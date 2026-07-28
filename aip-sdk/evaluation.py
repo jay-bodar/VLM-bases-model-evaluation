@@ -59,8 +59,8 @@ else:
 
 
 
-# metrics = ["llm.correctness", "llm.bleu", "llm.rouge", "llm.exact_match", "llm.conciseness", "llm.answer_relevance"]
-metrics = ["llm.rouge"]
+metrics = ["llm.rouge", "llm.correctness", "llm.conciseness", "llm.answer_relevance"]
+# metrics = ["llm.rouge"] 
 
 
 
