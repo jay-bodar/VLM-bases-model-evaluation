@@ -127,5 +127,12 @@ The results will be available in terminal as well as web UI of AIP under "Projec
 </ol>
 
 <hr>
+### Running with Docker
+
+1. **Build the image:**
+   ```bash
+   docker build -t video-eval-pipeline .
+
+<hr>
 
 <b>More on different evalutation matrices: </b>https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/evaluation/list-of-eval-metrics

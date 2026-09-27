@@ -1,0 +1,7 @@
+MSRVTT-Test_100/
+*.mp4
+*.csv
+.env
+__pycache__/
+aip_env/
+venv/

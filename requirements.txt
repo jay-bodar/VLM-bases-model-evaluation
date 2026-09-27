@@ -1,0 +1,9 @@
+# Core Python dependencies for the VLM evaluation workflow
+pandas>=2.0.0
+requests>=2.31.0
+datasets>=2.18.0
+opencv-python>=4.8.0
+python-dotenv>=1.0.0
+
+# Optional but useful for compatibility in container environments
+numpy>=1.24.0
